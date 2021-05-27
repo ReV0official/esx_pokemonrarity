@@ -2,6 +2,8 @@ MADE BY DADDYAF#8312
 
 edited by ReV0#0686
 support provided at https://discord.gg/vrFwb7mQGq
+card images can be found on the discord, cant get them to upload to github for some reason
+
 
 Use this how you like.
 
