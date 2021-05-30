@@ -1,4 +1,5 @@
 INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+('boosterPack', 'Booster Pack', 1, 0, 1),
 ('bulbasaur', 'Bulbasaur', 1,0,1),
 ('ivysaur', 'Ivysaur', 1, 0, 1),
 ('venusaur', 'Venusaur', 1, 0, 1),
