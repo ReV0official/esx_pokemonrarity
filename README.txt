@@ -1,4 +1,4 @@
-MADE BY DADDYAF#8312 
+
 
 edited by ReV0#0686
 support provided at https://discord.gg/vrFwb7mQGq
